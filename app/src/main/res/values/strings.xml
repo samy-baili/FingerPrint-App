@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FingerPrint-App</string>
+    <string name="email_hint_label">Email address</string>
+    <string name="password_hint_label">Password</string>
+    <string name="welcome_message">You are logged in</string>
+    <string name="log_in_button_label">Log IN</string>
+
+    <string name="authentication_error">Authentication error</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="authentication_help">Authentication help</string>
+    <string name="authentication_success">You have Been Successfully Logged in!</string>
+
+    <string name="no_finger_print_feature">Your device doesn\'t support fingerprint authentication</string>
+    <string name="enable_finger_print_feature">Please enable the fingerprint permission</string>
+
+
+    <string name="change_password_dialog_title">This account already exist.</string>
+    <string name="change_password_dialog_decription">Do you want to change your password?</string>
+    <string name="change_password_dialog_hint">New password</string>
+    <string name="change_password_dialog_yes_button">Change</string>
+    <string name="change_password_dialog_no_button">Cancel</string>
+
+    <string name="enable_finger_print_dialog_title">Confirm fingerprint to continue</string>
+    <string name="enable_finger_print_dialog_message">Touch sensor</string>
+    <string name="enable_finger_print_dialog_button">Cancel</string>
+
+    <string name="reset_button_label">Disconnect</string>
+    <string name="email_invalid_message">Email invalid format</string>
+
+</resources>
